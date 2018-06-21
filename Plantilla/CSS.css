@@ -1,0 +1,77 @@
+body,td,th {
+	color: #FFF;
+	text-shadow: #000 2px 2px 1px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 120%;
+	background-color: #FFA600;
+	border-bottom-color: #B37400;
+}
+body {
+	background:#1D2B3A;
+}
+h1,h2,h3,h4,h5,h6 {
+	color:#E3E8FF;
+	}
+	.main {
+	width:50%;
+	background:#009933;
+	padding:10px;
+	float:right;
+	box-sizing:border-box;
+	}
+	.main1 {
+	width:100
+	%;
+	background:#009933;
+	padding:10px;
+	box-sizing:border-box;
+	}
+	
+	.nam {
+    width:50%;
+	background:#0cdae1;
+	padding:10px;
+	float:left;
+	box-sizing:border-box;
+		}
+	
+	header {
+	width:100%;
+	background:#F93;
+	margin:20px 0;
+	}
+	footer{
+	width: 100%;
+	background: #2571fd;
+	margin:20px 0;
+	alignment-adjust: central;
+	}
+	@media screen and (max-width: 800px){
+	.main {
+	width:100%;
+	}
+	.nam{
+		width:100%;
+		}
+	}
+	
+	.contenedor{
+	width: 100%;
+	alignment-adjust: central;
+	}
+	
+	.SIuno{
+		width:69%;
+	background:#3C0D66;
+	padding:10px;
+	float:left;
+	box-sizing:border-box;
+		}
+		
+		.SIdos{
+			width:29%;
+	background:#3C0D66;
+	padding:10px;
+	float:right;
+	box-sizing:border-box;
+		}
